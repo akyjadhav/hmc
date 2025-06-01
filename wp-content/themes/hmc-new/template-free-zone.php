@@ -96,17 +96,17 @@ $bottomBg = get_field('bottom_bg', get_the_ID());
       <div class="col-lg-6 about-images aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
         <div class="row gy-4">
           <div class="col-lg-6">
-            <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/about-company-1.jpg" class="img-fluid"
+            <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/about-company-1.jpg" class="img-fluid"
               alt="">
           </div>
           <div class="col-lg-6">
             <div class="row gy-4">
               <div class="col-lg-12">
-                <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/about-company-2.jpg"
+                <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/about-company-2.jpg"
                   class="img-fluid" alt="">
               </div>
               <div class="col-lg-12">
-                <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/about-company-3.jpg"
+                <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/about-company-3.jpg"
                   class="img-fluid" alt="">
               </div>
             </div>
@@ -114,11 +114,11 @@ $bottomBg = get_field('bottom_bg', get_the_ID());
           <div class="col-lg-12">
             <div class="row gy-4">
               <div class="col-lg-6">
-                <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/about-company-2.jpg"
+                <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/about-company-2.jpg"
                   class="img-fluid" alt="">
               </div>
               <div class="col-lg-6">
-                <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/about-company-2.jpg"
+                <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/about-company-2.jpg"
                   class="img-fluid" alt="">
               </div>
             </div>
@@ -139,7 +139,7 @@ $bottomBg = get_field('bottom_bg', get_the_ID());
 
     <div class="row justify-content-around gy-4">
       <div class="features-image col-lg-6" data-aos="fade-up" data-aos-delay="100"><img
-          src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/features-bg.jpg" alt=""></div>
+          src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/features-bg.jpg" alt=""></div>
 
       <div class="col-lg-5 d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
         <h3>What We Offer For</h3>
