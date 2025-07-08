@@ -53,7 +53,7 @@ $bottomBg = get_field('bottom_bg', get_the_ID()); ?>
         </p>
       </div>
       <div class="col-md-6 animate__animated animate__fadeInRight">
-        <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/bf1.jpeg" alt="Mainland" class="img-fluid shadow-lg p-4 mb-5 bg-white rounded">
+        <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/bf1.jpeg" alt="Mainland" class="img-fluid shadow-lg p-4 mb-5 bg-white rounded">
       </div>
     </div>
 
@@ -75,7 +75,7 @@ $bottomBg = get_field('bottom_bg', get_the_ID()); ?>
         </p>
       </div>
       <div class="col-md-6 animate__animated animate__fadeInLeft">
-        <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/bf2.jpeg" alt="Free Zone" class="shadow-lg p-4 mb-5 bg-white rounded img-fluid">
+        <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/bf2.jpeg" alt="Free Zone" class="shadow-lg p-4 mb-5 bg-white rounded img-fluid">
       </div>
     </div>
 
@@ -95,7 +95,7 @@ $bottomBg = get_field('bottom_bg', get_the_ID()); ?>
         </p>
       </div>
       <div class="col-md-6 animate__animated animate__fadeInRight">
-        <img src="http://18.196.45.208/test/wp-content/themes/hmc-new/assets/img/bf3.jpeg" alt="Offshore" class="shadow-lg p-4 mb-5 bg-white rounded img-fluid">
+        <img src="http://localhost/hmc/wp-content/themes/hmc-new/assets/img/bf3.jpeg" alt="Offshore" class="shadow-lg p-4 mb-5 bg-white rounded img-fluid">
       </div>
     </div>
   </div>
